@@ -1,0 +1,29 @@
+/* Login page CSS */
+
+.main {
+    margin-top: 100px;
+}
+
+h1 {
+    border-bottom: 1px solid #eee;
+    font-size: 400;
+}
+
+.main-login{
+    background-color: #fefefe;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+}
+
+.main-center{
+    margin-top: 30px;
+    margin: 0 auto;
+    max-width: 4000px;
+    padding: 40px 40px;
+}

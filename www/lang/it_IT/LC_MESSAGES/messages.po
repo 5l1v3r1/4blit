@@ -1,0 +1,769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AllAroundSiena\n"
+"POT-Creation-Date: 2018-04-23 14:17+0200\n"
+"PO-Revision-Date: 2018-04-23 14:19+0200\n"
+"Last-Translator: Michele \"O-Zone\" Pinassi <o-zone@zerozone.it>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../..\n"
+
+#: ../../account.php:14
+msgid "My Account"
+msgstr "Il mio account"
+
+#: ../../account.php:16 ../../admin/sources.php:30 ../../admin/users.php:26
+#: ../../ajaxCb.php:285 ../../ajaxCb.php:384 ../../channel.php:19
+#: ../../configs.php:33 ../../configs.php:108 ../../queue.php:48
+msgid "Name"
+msgstr "Nome"
+
+#: ../../account.php:20
+msgid "eMail address"
+msgstr "Indirizzo e-Mail"
+
+#: ../../account.php:24
+msgid "Service level"
+msgstr "Livello di servizio"
+
+#: ../../account.php:28
+msgid "Authentication provider(s)"
+msgstr "Provider(s) di autenticazione"
+
+#: ../../account.php:45 ../../admin/users.php:59
+msgid "Delete account"
+msgstr "Cancella account"
+
+#: ../../account.php:46
+msgid "Delete my account"
+msgstr "Cacnella il mio account"
+
+#: ../../account.php:48 ../../account.php:49 ../../ajaxCb.php:533
+msgid "Resend welcome mail"
+msgstr "Invia nuovamente e-mail di attivazione"
+
+#: ../../admin/log.php:21 ../../common_leftmenu.php:29
+msgid "System Log"
+msgstr "Log di sistema"
+
+#: ../../admin/log.php:25
+msgid "IP"
+msgstr "IP"
+
+#: ../../admin/log.php:26
+msgid "Context"
+msgstr "Contesto"
+
+#: ../../admin/log.php:27 ../../admin/sources.php:31 ../../ajaxCb.php:297
+#: ../../channel.php:20 ../../configs.php:34
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../../admin/log.php:28 ../../admin/users.php:30
+msgid "Add Date"
+msgstr "Aggiunto in data"
+
+#: ../../admin/mail.php:21 ../../common_leftmenu.php:38
+msgid "Mail queue"
+msgstr "Coda email"
+
+#: ../../admin/mail.php:25
+msgid "To"
+msgstr "A"
+
+#: ../../admin/mail.php:26
+msgid "Subject"
+msgstr "Oggetto"
+
+#: ../../admin/mail.php:27
+msgid "Status"
+msgstr "Stato"
+
+#: ../../admin/mail.php:28
+msgid "Requeued"
+msgstr "Riaccodato"
+
+#: ../../admin/mail.php:54
+msgid "Remove this mail"
+msgstr "Cancella questa email"
+
+#: ../../admin/sources.php:22 ../../admin/sources.php:24
+#: ../../common_leftmenu.php:35 ../../configs.php:27 ../../home.php:66
+msgid "Sources"
+msgstr "Sorgenti"
+
+#: ../../admin/sources.php:28 ../../ajaxCb.php:274 ../../configs.php:31
+#: ../../configs.php:161
+msgid "Type"
+msgstr "Tipo"
+
+#: ../../admin/sources.php:29 ../../admin/users.php:25 ../../configs.php:32
+#: ../../configs.php:107 ../../configs.php:160 ../../queue.php:47
+msgid "ID"
+msgstr "ID"
+
+#: ../../admin/sources.php:32 ../../ajaxCb.php:281 ../../configs.php:35
+#: ../../queue.php:94
+msgid "URL"
+msgstr "URL"
+
+#: ../../admin/sources.php:33 ../../configs.php:36 ../../configs.php:110
+#: ../../configs.php:163
+msgid "Added on"
+msgstr "Aggiunto il"
+
+#: ../../admin/sources.php:34
+msgid "Owner"
+msgstr "Proprietario"
+
+#: ../../admin/users.php:21 ../../common_leftmenu.php:32
+msgid "Users"
+msgstr "Utenti"
+
+#: ../../admin/users.php:27
+msgid "eMail"
+msgstr "eMail"
+
+#: ../../admin/users.php:28
+msgid "Level"
+msgstr "Livello"
+
+#: ../../admin/users.php:29
+msgid "Last login"
+msgstr "Ultimo accesso"
+
+#: ../../admin/users.php:51
+msgid "Send message"
+msgstr "Invia messaggio\t"
+
+#: ../../admin/users.php:55
+msgid "Enable account"
+msgstr "Abilita account"
+
+#: ../../ajaxCb.php:18
+msgid "Sign-in"
+msgstr "Accedi"
+
+#: ../../ajaxCb.php:23
+msgid "Sign-in Facebook"
+msgstr "Accedi con Facebook"
+
+#: ../../ajaxCb.php:26
+msgid ""
+"<p>We use social sign-in to simplify your life with password</p><p>P.S. we "
+"dont' publish anything without your permission</p>"
+msgstr ""
+"<p>Usiamo l'autenticazione sociale per semplificare la tua vita con le "
+"password</p><p>P.S. non pubblicheremo mai niente senza il tuo permesso</p>"
+
+#: ../../ajaxCb.php:30
+msgid "Annulla"
+msgstr "Annulla"
+
+#: ../../ajaxCb.php:47
+msgid "Contact e-mail"
+msgstr "E-mail di contatto"
+
+#: ../../ajaxCb.php:255
+msgid "Connected to BOT"
+msgstr "Connesso al BOT"
+
+#: ../../ajaxCb.php:283
+msgid "Source URL can be an RSS feed or a Blog, if connected via plugin"
+msgstr ""
+"La sorgente URL può essere un feed RSS o un Blog, se connesso attraverso il "
+"plugin"
+
+#: ../../ajaxCb.php:287
+msgid "The name of this source"
+msgstr "Il nome di questa sorgente"
+
+#: ../../ajaxCb.php:291
+msgid "Api KEY"
+msgstr "Chiave API"
+
+#: ../../ajaxCb.php:293
+msgid ""
+"Api Key to user this source. Click on key button to generate a new Api key."
+msgstr ""
+
+#: ../../ajaxCb.php:299
+msgid "A brief description of this source"
+msgstr "Una veloce descrizione di questa sorgente"
+
+#: ../../ajaxCb.php:305
+msgid "If checked, this source will be threatened as public"
+msgstr "Se spuntato, questa sorgente è considerata pubblica"
+
+#: ../../ajaxCb.php:310
+msgid "** WARNING ** If checked, this source will be permanently deleted"
+msgstr ""
+"** ATTENZIONE ** Se spuntato, questa sorgente sarà definitivamente cancellata"
+
+#: ../../ajaxCb.php:357
+msgid "Niente da segnalare :-)"
+msgstr ""
+
+#: ../../ajaxCb.php:386
+msgid "The name for your BOT, just to identify quickly"
+msgstr "Il nome del tuo BOT, per identificarlo velocemente"
+
+#: ../../ajaxCb.php:388
+msgid "BOT Token"
+msgstr "Token BOT"
+
+#: ../../ajaxCb.php:390
+msgid "Telegram BOT Token: need to access Telegram realtime chat network"
+msgstr ""
+"Il token del BOT di Telegram: necessario per accedere al sistema di "
+"messaggistica in tempo reale Telegram"
+
+#: ../../ajaxCb.php:392
+msgid "Publish posts every"
+msgstr ""
+
+#: ../../ajaxCb.php:394
+msgid "30 minutes"
+msgstr ""
+
+#: ../../ajaxCb.php:395
+msgid "1 hour"
+msgstr ""
+
+#: ../../ajaxCb.php:396
+msgid "2 hours"
+msgstr ""
+
+#: ../../ajaxCb.php:397
+msgid "4 hours"
+msgstr ""
+
+#: ../../ajaxCb.php:398
+msgid "12 hours"
+msgstr ""
+
+#: ../../ajaxCb.php:399
+msgid "1 day"
+msgstr ""
+
+#: ../../ajaxCb.php:400
+msgid "2 day2"
+msgstr ""
+
+#: ../../ajaxCb.php:404
+msgid "If enabled, this BOT can publish to linked Telegram channels"
+msgstr ""
+
+#: ../../ajaxCb.php:409
+msgid "** WARNING ** If checked, this bot will be permanently deleted"
+msgstr ""
+
+#: ../../ajaxCb.php:430
+msgid "Telegram channels starts with '@': copy your channel ID here"
+msgstr ""
+
+#: ../../ajaxCb.php:443
+msgid "Choose a BOT to link with this channel"
+msgstr "Scegli un BOT da collegare a questo canale"
+
+#: ../../ajaxCb.php:446
+msgid "If checked, this channel is enabled"
+msgstr "Se spuntato, questo canale è abilitato"
+
+#: ../../ajaxCb.php:449
+msgid "** WARNING ** If checked, this channel will be permanently deleted"
+msgstr ""
+
+#: ../../api.php:8 ../../common_header.php:101
+msgid "API"
+msgstr ""
+
+#: ../../api.php:9
+msgid ""
+"4bl.it API enables easy integration for broadcasting to your Telegram "
+"Channels using our platform."
+msgstr ""
+
+#: ../../api.php:24
+msgid "Introduction"
+msgstr ""
+
+#: ../../blog.php:9 ../../common_header.php:95
+msgid "Blog"
+msgstr "Blog"
+
+#: ../../blog.php:10
+msgid "News, updates and all the important stuff about 4bl.it project."
+msgstr ""
+
+#: ../../blog.php:36
+#, php-format
+msgid "Published on %s"
+msgstr "Pubblicato in data %s"
+
+#: ../../blog.php:58
+msgid "New post"
+msgstr "Nuovo articolo"
+
+#: ../../channel.php:10 ../../common_header.php:98
+msgid "Public channels"
+msgstr "Canali pubblici"
+
+#: ../../channel.php:11
+msgid ""
+"Looking for something to read ? Here's a list of public channels broadcasted "
+"by 4blit... "
+msgstr ""
+
+#: ../../channel.php:21
+msgid "Channel"
+msgstr "Canale"
+
+#: ../../channel.php:78 ../../inbox.php:56 ../../queue.php:93
+msgid "Title"
+msgstr "Titolo"
+
+#: ../../channel.php:79 ../../queue.php:97
+msgid "Publish date"
+msgstr "Pubblicato il"
+
+#: ../../channel.php:98
+msgid "data fetched from"
+msgstr ""
+
+#: ../../channel.php:102
+msgid "Join freely this public channel clicking on this link"
+msgstr ""
+
+#: ../../channel.php:108
+msgid "Report an issue"
+msgstr ""
+
+#: ../../common_header.php:104
+msgid "Plugin"
+msgstr ""
+
+#: ../../common_header.php:107 ../../contacts.php:8
+msgid "Contacts"
+msgstr ""
+
+#: ../../common_header.php:113 ../../common_leftmenu.php:48
+msgid "Logout"
+msgstr "Esci"
+
+#: ../../common_header.php:116
+msgid "Login or sign-up"
+msgstr "Iscriviti o accedi"
+
+#: ../../common_header.php:121
+msgid "Social authentication"
+msgstr ""
+
+#: ../../common_leftmenu.php:3
+msgid "Overview"
+msgstr "Panoramica"
+
+#: ../../common_leftmenu.php:13
+msgid "Inbox"
+msgstr "Casella di posta"
+
+#: ../../common_leftmenu.php:16 ../../reports.php:15
+msgid "Reports"
+msgstr "Reports"
+
+#: ../../common_leftmenu.php:19
+msgid "Bot queues"
+msgstr "Coda dei Bot"
+
+#: ../../common_leftmenu.php:22 ../../configs.php:16
+msgid "Configurations"
+msgstr "Configurazioni"
+
+#: ../../common_leftmenu.php:45
+msgid "My account"
+msgstr "Il mio account"
+
+#: ../../configs.php:91
+msgid "New RSS source"
+msgstr "Nuova sorgente RSS"
+
+#: ../../configs.php:95
+msgid ""
+"<strong>Please note:</strong> Wordpress blogs are added automatically on "
+"plugin connection, so you don't need to add them manually"
+msgstr ""
+"<strong>Attenzione:</strong> i blog di Wordpress sono aggiunti "
+"automaticamente attraverso il plugin, pertanto non è necessario aggiungerli "
+"manualmente"
+
+#: ../../configs.php:102 ../../queue.php:43
+msgid "BOTs"
+msgstr "BOTs"
+
+#: ../../configs.php:109 ../../queue.php:51
+msgid "Last publish"
+msgstr "Ultima pubblicazione"
+
+#: ../../configs.php:149
+msgid "New BOT"
+msgstr "Nuovo BOT"
+
+#: ../../configs.php:156
+msgid "Channels"
+msgstr "Canali"
+
+#: ../../configs.php:162
+msgid "Bot linked"
+msgstr "Bot collegato"
+
+#: ../../configs.php:164
+msgid "Last update"
+msgstr "Ultimo aggiornamento"
+
+#: ../../configs.php:203
+msgid "Add Telegram Channel"
+msgstr "Aggiungi canale Telegram"
+
+#: ../../contacts.php:9
+msgid "Questions ? Complains ? Requests ? Contact us !"
+msgstr ""
+
+#: ../../home.php:26
+msgid "Dashboard"
+msgstr "Panoramica"
+
+#: ../../home.php:35
+msgid "Bots"
+msgstr "Bots"
+
+#: ../../home.php:50
+msgid "Posts"
+msgstr "Articoli"
+
+#: ../../home.php:98
+msgid "Latest posts"
+msgstr "Ultimi articoli"
+
+#: ../../inbox.php:31
+#, php-format
+msgid "Received on %s"
+msgstr "Ricevuto in data %s"
+
+#: ../../inbox.php:33
+msgid "Back"
+msgstr "Indietro"
+
+#: ../../inbox.php:35
+msgid "Delete"
+msgstr "Cancella"
+
+#: ../../inbox.php:51
+#, php-format
+msgid "%s's Inbox"
+msgstr "Casella di posta di %s"
+
+#: ../../inbox.php:58
+msgid "Date"
+msgstr "Data"
+
+#: ../../index.php:23
+msgid "Your blog on Telegram"
+msgstr "Il tuo blog su Telegram"
+
+#: ../../index.php:24
+msgid "Promote your blog articles on your Telegram channel, for free !"
+msgstr ""
+
+#: ../../index.php:26 ../../index.php:36 ../../index.php:46
+msgid "Discover more"
+msgstr "Scopri di più"
+
+#: ../../index.php:33
+msgid "Over 1 billion potential users"
+msgstr "Oltre 1 miliardi di potenziali utenti"
+
+#: ../../index.php:34
+msgid ""
+"There are over 1 billion of users on Telegram and growing. And you can "
+"engage them in real time."
+msgstr ""
+
+#: ../../index.php:43
+msgid "It's free"
+msgstr "E' gratuito"
+
+#: ../../index.php:44
+msgid ""
+"Our service was provided free of charge. No credit card required. Enjoy !"
+msgstr ""
+
+#: ../../index.php:67
+#, php-format
+msgid ""
+"Hooooray, since the beginning of <i>4bl.it</i> we have already send %d posts "
+"for %d blogs !"
+msgstr ""
+
+#: ../../legal.php:8
+msgid "Terms of use"
+msgstr "Termini di utilizzo"
+
+#: ../../legal.php:9
+msgid ""
+"The use of this website is subject to acceptance of the terms of use "
+"described below."
+msgstr ""
+"L'uso di questo sito web comporta l'accettazione dei termini di utilizzo "
+"descritti sotto"
+
+#: ../../login.php:14
+msgid ""
+"We use third-party authentication to ensure security for all our users. "
+"Choose which one fit best your needs."
+msgstr ""
+
+#: ../../queue.php:49
+msgid "Waiting posts"
+msgstr "Articoli in attesa"
+
+#: ../../queue.php:50
+msgid "Total posts"
+msgstr "Totale articoli"
+
+#: ../../queue.php:89
+#, php-format
+msgid "Posts queue for BOT %s"
+msgstr "Coda per il BOT %s"
+
+#: ../../queue.php:95
+msgid "Views"
+msgstr "Visualizzazioni"
+
+#: ../../queue.php:96
+msgid "Add date"
+msgstr "Aggiunto il"
+
+#: ../../queue.php:115
+msgid "Toggle this post"
+msgstr ""
+
+#: ../../queue.php:117
+msgid "Delete this post"
+msgstr ""
+
+#: ../../reports.php:16
+msgid "Total views in last 7 days"
+msgstr "Visualizzazioni negli ultimi 7 giorni"
+
+#: ../../reports.php:18
+msgid "Top 10 sources"
+msgstr "To 10 sources"
+
+#: ../../reports.php:22
+msgid "Clicks"
+msgstr "Clicks"
+
+#: ../../reports.php:23
+msgid "Day"
+msgstr "Giorno"
+
+#: ../../reports.php:24
+msgid "Source"
+msgstr "Sorgente"
+
+#: ../../tags.php:15
+msgid "Tag cloud"
+msgstr "Tag cloud"
+
+#: ../../tags.php:16
+msgid "Tag cloud from public channels posts"
+msgstr "Tag cloud dai canali pubblici"
+
+#~ msgid "Sign-up now with Facebook"
+#~ msgstr "Accedi con Facebook"
+
+#~ msgid "Our channels"
+#~ msgstr "I nostri canali"
+
+#~ msgid "Here's a list of public channels managed through AllAroundSiena... "
+#~ msgstr ""
+#~ "Ecco una lista di canali pubblici gestiti attraverso AllAroundSiena..."
+
+#~ msgid "Knowledge Base"
+#~ msgstr "Aiuto"
+
+#~ msgid "Authenticate via"
+#~ msgstr "Autenticati con"
+
+#~ msgid "Add or edit help"
+#~ msgstr "Aggiungi o modifica aiuto"
+
+#~ msgid "Need help ?"
+#~ msgstr "Serve aiuto ?"
+
+#~ msgid ""
+#~ "Confused about Api key ? Need help understanding Telegram channels or "
+#~ "BOTs ? Try looking here..."
+#~ msgstr ""
+#~ "Confuso sulla chiave API ? Serve aiuto per capire i canali Telegram o i "
+#~ "BOTs ? Prova a guardare qui..."
+
+#~ msgid "Search for"
+#~ msgstr "Cerca per"
+
+#~ msgid "Search"
+#~ msgstr "Ricerca"
+
+#~ msgid "Resend activation e-mail"
+#~ msgstr "Invia nuovamente e-mail di attivazione"
+
+#~ msgid "Change e-mail address"
+#~ msgstr "Cambia indirizzo e-mail"
+
+#~ msgid "About"
+#~ msgstr "A proposito..."
+
+#~ msgid "Login"
+#~ msgstr "Accedi"
+
+#~ msgid "Add new help"
+#~ msgstr "Aggiungi nuovo aiuto"
+
+#~ msgid "Welcome !"
+#~ msgstr "Benvenuto !"
+
+#~ msgid ""
+#~ "AllAround is an innovative way to engage your users and grow site "
+#~ "audience using Telegram Channels. Get our <a href='https://wordpress.org/"
+#~ "plugins/wp-allaround/'>Wordpress plugin</a>, get an <a href='/help/"
+#~ "apikey'>Api Key</a> and start broadcasting to all your friend and "
+#~ "followers all around the world !"
+#~ msgstr ""
+#~ "AllAround è uno strumento innovativo per coinvolgere i tuoi utenti ed "
+#~ "accrescere l'audience del tuo sito usando i canali Telegram. Scarica ed "
+#~ "installa il nostro <a href='https://wordpress.org/plugins/wp-"
+#~ "allaround/'>plugin di Wordpress</a>, ottieni la tua <a href='/help/"
+#~ "apikey'>chiave Api</a> e inizia a coinvolgere tutti i tuoi amici e "
+#~ "followers in tutto il mondo !"
+
+#~ msgid "Over 100.000.000 users"
+#~ msgstr "Oltre 100.000.000 utenti"
+
+#~ msgid ""
+#~ "Telegram have recently reached <a href='https://telegram.org/blog/100-"
+#~ "million'>over 100.000.000 montly active users</a> and 350.000 new users "
+#~ "signup every day ! \n"
+#~ "\t    You can reach your friends and followers via Telegram Channel, the "
+#~ "new limitless way to broadcast contents."
+#~ msgstr ""
+#~ "Telegram ha appena raggiunto <a href='https://telegram.org/blog/100-"
+#~ "million'>i 100.000.000 di utenti attivi ogni mese</a> e 350.000 nuovi "
+#~ "utenti si iscrivono ogni giorno ! \n"
+#~ "\t  Puoi raggiungere tutti i tuoi amici e followers attraverso i canali "
+#~ "di Telegram, il nuovo strumento di promozione contenuti."
+
+#~ msgid "Not just broadcast"
+#~ msgstr "Non solo broadcast"
+
+#~ msgid ""
+#~ "With our innovative frontend, you can program your BOT to react on "
+#~ "private messages from your users"
+#~ msgstr ""
+#~ "Con la nostra innovativa interfaccia di controllo, puoi programmare come "
+#~ "il tuo BOT reagirà ai messaggi privati inviati dagli utenti"
+
+#~ msgid "The free plan"
+#~ msgstr "Ed è gratis"
+
+#~ msgid ""
+#~ "Try our service for free, forever, to promote your site or personal blog "
+#~ "on Telegram !"
+#~ msgstr ""
+#~ "Prova il nostro servizio gratuitamente, per sempre, per promuovere il tuo "
+#~ "sito o il tuo blog personale su Telegram !"
+
+#~ msgid "Like us on Facebook"
+#~ msgstr "Seguici su Facebook"
+
+#~ msgid "Wordpress ready"
+#~ msgstr "Pronto per Wordpress"
+
+#~ msgid ""
+#~ "Just install our Wordpress plugin in your blog and you are ready to "
+#~ "broadcast in 5 steps: get <a href='https://wordpress.org/plugins/wp-"
+#~ "allaround/'>wp-allaround</a> in Wordpress Plugin repository !"
+#~ msgstr ""
+#~ "Installa il nostro plugin per Wordpress nel tuo blog e sarai pronto a "
+#~ "pubblicare nel tuo canale in 5 mosse: scarica subito <a href='https://"
+#~ "wordpress.org/plugins/wp-allaround/'>wp-allaround</a> dal sito dei Plugin "
+#~ "di Wordpress !"
+
+#~ msgid "Do you prefer RSS ?"
+#~ msgstr "Preferisci gli RSS ?"
+
+#~ msgid ""
+#~ "Wanna broadcast your RSS feed ? No problem ! We are ready to spread your "
+#~ "feed all over the world via Telegram Channels"
+#~ msgstr ""
+#~ "Vuoi pubblicare il tuo feed RSS ? Nessun problema ! Siamo pronti a "
+#~ "promuovere il tuo feed RSS in tutto il mondo attraverso i canali Telegram"
+
+#~ msgid ""
+#~ "Hooooray, since the beginning of <i>All Around</i> we have already send "
+#~ "%d posts for %d blogs !"
+#~ msgstr ""
+#~ "Wow, dall'inizio di <i>All Around</i> abbiamo già pubblicato %d articoli "
+#~ "per %d blogs !"
+
+#, fuzzy
+#~ msgid "Email address"
+#~ msgstr "Indirizzo e-Mail"
+
+#~ msgid ""
+#~ "Try our Telegram Bot for free, with pur basic plan 1 blog/1 post every 12 "
+#~ "hours: free forever for your site or personal blog !"
+#~ msgstr ""
+#~ "Prova gratuitamente e per sempre il nostro strumento, con il nostro piano "
+#~ "\"basic\" 1 blog/1 post ogni 12 ore:  per il tuo sito o per tuo blog "
+#~ "personale !"
+
+#~ msgid "The API Key fot this BOT, to use in your blog"
+#~ msgstr "La chiave API per questo BOT, da usare nel plugin per il tuo blog"
+
+#~ msgid "Paste here Telegram BOT Token: ask @BotFather if you need one !"
+#~ msgstr ""
+#~ "Incolla qui il token del BOT di Telegram: chiedi a @BotFather se te ne "
+#~ "serve uno !"
+
+#~ msgid "How much it costs ?"
+#~ msgstr "Quanto costa ?"
+
+#~ msgid "Sign in"
+#~ msgstr "Accedi"
+
+#~ msgid "API Key"
+#~ msgstr "Chiave API"
+
+#~ msgid "Source IP"
+#~ msgstr "IP di origine"
+
+#~ msgid "Blogs"
+#~ msgstr "Blog"
+
+#~ msgid ""
+#~ "At the moment it's completely free, forever ! However your donation or "
+#~ "patronage is strongly welcome :)"
+#~ msgstr ""
+#~ "AllAroundSiena è totalmente gratuito, per sempre ! Tuttavia una donazione "
+#~ "è fortemente gradita :)"
+
+#~ msgid "Home"
+#~ msgstr "Home"

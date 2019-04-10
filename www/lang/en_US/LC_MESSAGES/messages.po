@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AllAroundSiena\n"
+"POT-Creation-Date: 2016-08-08 15:02+0100\n"
+"PO-Revision-Date: 2016-08-08 15:02+0100\n"
+"Last-Translator: Michele \"O-Zone\" Pinassi <o-zone@zerozone.it>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../www/index.php:13
+msgid "Welcome !"
+msgstr ""
+
+#: ../www/index.php:14
+msgid ""
+"AllAround is an innovative way to engage your users and grow site audience "
+"using Telegram Channels. Get our <a href='https://wordpress.org/plugins/wp-"
+"allaround/'>Wordpress plugin</a>, get an <a href='/help/apikey'>Api Key</a> "
+"and start broadcasting to all your friend and followers all around the "
+"world !"
+msgstr ""
+
+#: ../www/index.php:40 ../www/about.php:68 ../www/plans.php:36
+msgid "Sign-up now with Facebook"
+msgstr ""
+
+#: ../www/index.php:59
+#, php-format
+msgid ""
+"Hooooray, since the beginning of <i>All Around</i> we have already send %d "
+"posts for %d blogs !"
+msgstr ""
+
+#: ../www/configs.php:16 ../www/common_leftmenu.php:5
+msgid "Configurations"
+msgstr ""
+
+#: ../www/configs.php:18
+msgid "Sources"
+msgstr ""
+
+#: ../www/configs.php:53
+msgid "BOTs"
+msgstr ""
+
+#: ../www/configs.php:90
+msgid "New BOT Api Key"
+msgstr ""
+
+#: ../www/configs.php:97
+msgid "Channels"
+msgstr ""
+
+#: ../www/configs.php:138
+msgid "Add Telegram Channel"
+msgstr ""
+
+#: ../www/legal.php:8
+msgid "Terms of use"
+msgstr ""
+
+#: ../www/account.php:14 ../www/common_leftmenu.php:6
+msgid "My Account"
+msgstr ""
+
+#: ../www/account.php:16
+msgid "Name"
+msgstr ""
+
+#: ../www/account.php:22
+msgid "eMail address"
+msgstr ""
+
+#: ../www/account.php:28
+msgid "Service level"
+msgstr ""
+
+#: ../www/account.php:35 ../www/account.php:36
+msgid "Resend activation e-mail"
+msgstr ""
+
+#: ../www/account.php:38 ../www/account.php:39
+msgid "Change e-mail address"
+msgstr ""
+
+#: ../www/home.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: ../www/home.php:35
+msgid "Bots"
+msgstr ""
+
+#: ../www/home.php:50
+msgid "Posts"
+msgstr ""
+
+#: ../www/home.php:66
+msgid "Blogs"
+msgstr ""
+
+#: ../www/home.php:95
+msgid "Latest posts"
+msgstr ""
+
+#: ../www/plans.php:9
+msgid "How much it costs ?"
+msgstr ""
+
+#: ../www/plans.php:10
+msgid ""
+"At the moment it's completely free, forever ! However your donation or "
+"patronage is strongly welcome :)"
+msgstr ""
+
+#: ../www/channels.php:9
+msgid "Our channels"
+msgstr ""
+
+#: ../www/channels.php:10
+msgid "Here's a list of public channels managed through AllAroundSiena... "
+msgstr ""
+
+#: ../www/ajaxCb.php:17
+msgid "Sign-in"
+msgstr ""
+
+#: ../www/ajaxCb.php:22
+msgid "Sign-in Facebook"
+msgstr ""
+
+#: ../www/ajaxCb.php:25
+msgid ""
+"<p>We use social sign-in to simplify your life with password</p><p>P.S. we "
+"dont' publish anything without your permission</p>"
+msgstr ""
+
+#: ../www/ajaxCb.php:29
+msgid "Annulla"
+msgstr ""
+
+#: ../www/ajaxCb.php:105
+msgid "If checked, this source will be threatened as public"
+msgstr ""
+
+#: ../www/ajaxCb.php:108
+msgid "** WARNING ** If checked, this source will be permanently deleted"
+msgstr ""
+
+#: ../www/ajaxCb.php:127
+msgid "The name for your BOT, just to identify quickly"
+msgstr ""
+
+#: ../www/ajaxCb.php:130
+msgid "The API Key fot this BOT, to use in your blog"
+msgstr ""
+
+#: ../www/ajaxCb.php:134
+msgid "Telegram BOT Token: need to access Telegram realtime chat network"
+msgstr ""
+
+#: ../www/ajaxCb.php:140
+msgid "If enabled, this BOT can publish to linked Telegram channels"
+msgstr ""
+
+#: ../www/ajaxCb.php:143
+msgid "** WARNING ** If checked, this bot will be permanently deleted"
+msgstr ""
+
+#: ../www/ajaxCb.php:164
+msgid "Telegram channels starts with '@': copy your channel ID here"
+msgstr ""
+
+#: ../www/ajaxCb.php:177
+msgid "Choose a BOT to link with this channel"
+msgstr ""
+
+#: ../www/ajaxCb.php:180
+msgid "If checked, this channel is enabled"
+msgstr ""
+
+#: ../www/ajaxCb.php:183
+msgid "** WARNING ** If checked, this channel will be permanently deleted"
+msgstr ""
+
+#: ../www/ajaxCb.php:199
+msgid "This is the API Key to access this BOT from your blog"
+msgstr ""
+
+#: ../www/ajaxCb.php:203
+msgid "Choose a name for your BOT, just to identify it quickly"
+msgstr ""
+
+#: ../www/ajaxCb.php:207
+msgid "Paste here Telegram BOT Token: ask @BotFather if you need one !"
+msgstr ""
+
+#: ../www/reports.php:16 ../www/common_leftmenu.php:4
+msgid "Reports"
+msgstr ""
+
+#: ../www/reports.php:17
+msgid "Total views in last 7 days"
+msgstr ""
+
+#: ../www/help.php:16
+msgid "Need help ?"
+msgstr ""
+
+#: ../www/help.php:17
+msgid ""
+"Confused about Api key ? Need help understanding Telegram channels or BOTs ? "
+"Try looking here..."
+msgstr ""
+
+#: ../www/help.php:25
+msgid "Search for"
+msgstr ""
+
+#: ../www/help.php:27
+msgid "Search"
+msgstr ""
+
+#: ../www/help.php:57
+msgid "Add new help"
+msgstr ""
+
+#: ../www/common_leftmenu.php:3
+msgid "Overview"
+msgstr ""
+
+#: ../www/common_leftmenu.php:7
+msgid "Logout"
+msgstr ""
